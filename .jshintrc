@@ -1,5 +1,4 @@
 {
-  "extends": ".jshintrc-base",
-  "node": true,
-  "globals": {}
+	"-W100"		: true,
+	"esnext"	: true
 }
