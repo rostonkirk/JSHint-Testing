@@ -1,4 +1,3 @@
 {
-	"-W100"		: true,
-	"esnext"	: true
+	"undef"  	: true
 }
