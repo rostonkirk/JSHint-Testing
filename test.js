@@ -1,1 +1,4 @@
-var x = myFunction(4, 3);
+function myDopeFunction(a, b) {
+  var x = myAwesomeFunction(4, 3);
+  return a * b;
+}
