@@ -1,7 +1,8 @@
 {
 	"undef"  	: true,
 	
-	//"globals"   : {
-	//    "myAwesomeFunction"  : true
-	//}
+	"globals"   : {
+	    "myAwesomeFunction"  : true,
+	    "myReallyAwesomeFunction"  : true
+	}
 }
