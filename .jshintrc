@@ -1,5 +1,5 @@
 {
-	"scripturl"  	: true,
+	"scripturl"  	: false,
 	
 	"globals"   : {
 	    "myAwesomeFunction"  : true,
