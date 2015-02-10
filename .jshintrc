@@ -1,8 +1,1 @@
-{
-	"scripturl"  	: true,
-	
-	"globals"   : {
-	    "myAwesomeFunction"  : true,
-	    "myReallyAwesomeFunction"  : true
-	}
-}
+
