@@ -3,7 +3,7 @@
 -	"unused"      : false,		
 -			
 -	"globals"   : {		
--	  var  "myAwesomeFunction"  : true,		
--	  var  "myReallyAwesomeFunction"  : true		
+-	  var global1 = "myAwesomeFunction"  : true,		
+-	  var global2 = "myReallyAwesomeFunction"  : true		
 -	}		
 -}
