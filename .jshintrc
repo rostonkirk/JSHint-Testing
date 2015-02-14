@@ -4,6 +4,6 @@
  					 			
 "globals"    {		
 "myAwesomeFunction"  : true		
-"myReallyAwesomeFunction"   true		
+"myReallyAwesomeFunction"   false		
  	}				 			
  		 
