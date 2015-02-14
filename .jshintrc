@@ -2,8 +2,8 @@
 "loopfunc"  	: true		
 "unused"       false		
  					 			
-"globals"   : {		
+"globals"    {		
 "myAwesomeFunction"  : true		
-"myReallyAwesomeFunction"  : true		
+"myReallyAwesomeFunction"   true		
  	}				 			
  		 
